@@ -46,8 +46,7 @@ def getRatio(price_a, price_b):
         return
     return price_a/price_b
 
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+
 
 # Main
 if __name__ == "__main__":
